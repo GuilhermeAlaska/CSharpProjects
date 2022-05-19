@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AgeToDays/1.0.0": {
+        "runtime": {
+          "AgeToDays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AgeToDays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

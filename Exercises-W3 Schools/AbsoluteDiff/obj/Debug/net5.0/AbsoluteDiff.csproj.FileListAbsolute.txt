@@ -1,0 +1,15 @@
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\AbsoluteDiff\bin\Debug\net5.0\AbsoluteDiff.exe
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\AbsoluteDiff\bin\Debug\net5.0\AbsoluteDiff.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\AbsoluteDiff\bin\Debug\net5.0\AbsoluteDiff.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\AbsoluteDiff\bin\Debug\net5.0\AbsoluteDiff.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\AbsoluteDiff\bin\Debug\net5.0\AbsoluteDiff.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\AbsoluteDiff\bin\Debug\net5.0\ref\AbsoluteDiff.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\AbsoluteDiff\bin\Debug\net5.0\AbsoluteDiff.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\AbsoluteDiff\obj\Debug\net5.0\AbsoluteDiff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\AbsoluteDiff\obj\Debug\net5.0\AbsoluteDiff.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\AbsoluteDiff\obj\Debug\net5.0\AbsoluteDiff.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\AbsoluteDiff\obj\Debug\net5.0\AbsoluteDiff.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\AbsoluteDiff\obj\Debug\net5.0\AbsoluteDiff.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\AbsoluteDiff\obj\Debug\net5.0\ref\AbsoluteDiff.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\AbsoluteDiff\obj\Debug\net5.0\AbsoluteDiff.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\AbsoluteDiff\obj\Debug\net5.0\AbsoluteDiff.genruntimeconfig.cache

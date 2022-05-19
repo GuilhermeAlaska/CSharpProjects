@@ -1,0 +1,16 @@
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedList3\bin\Debug\net5.0\LinkedList3.exe
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedList3\bin\Debug\net5.0\LinkedList3.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedList3\bin\Debug\net5.0\LinkedList3.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedList3\bin\Debug\net5.0\LinkedList3.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedList3\bin\Debug\net5.0\LinkedList3.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedList3\bin\Debug\net5.0\ref\LinkedList3.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedList3\bin\Debug\net5.0\LinkedList3.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedList3\obj\Debug\net5.0\LinkedList3.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedList3\obj\Debug\net5.0\LinkedList3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedList3\obj\Debug\net5.0\LinkedList3.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedList3\obj\Debug\net5.0\LinkedList3.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedList3\obj\Debug\net5.0\LinkedList3.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedList3\obj\Debug\net5.0\LinkedList3.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedList3\obj\Debug\net5.0\ref\LinkedList3.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedList3\obj\Debug\net5.0\LinkedList3.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedList3\obj\Debug\net5.0\LinkedList3.genruntimeconfig.cache

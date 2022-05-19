@@ -1,0 +1,16 @@
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedListProject\obj\Debug\net5.0\LinkedListProject.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedListProject\obj\Debug\net5.0\LinkedListProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedListProject\obj\Debug\net5.0\LinkedListProject.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedListProject\obj\Debug\net5.0\LinkedListProject.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedListProject\obj\Debug\net5.0\LinkedListProject.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedListProject\bin\Debug\net5.0\LinkedListProject.exe
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedListProject\bin\Debug\net5.0\LinkedListProject.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedListProject\bin\Debug\net5.0\LinkedListProject.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedListProject\bin\Debug\net5.0\LinkedListProject.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedListProject\bin\Debug\net5.0\LinkedListProject.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedListProject\bin\Debug\net5.0\ref\LinkedListProject.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedListProject\bin\Debug\net5.0\LinkedListProject.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedListProject\obj\Debug\net5.0\LinkedListProject.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedListProject\obj\Debug\net5.0\ref\LinkedListProject.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedListProject\obj\Debug\net5.0\LinkedListProject.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\LinkedListProject\obj\Debug\net5.0\LinkedListProject.genruntimeconfig.cache

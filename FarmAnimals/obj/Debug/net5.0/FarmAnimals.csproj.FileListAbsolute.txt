@@ -1,0 +1,15 @@
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\FarmAnimals\bin\Debug\net5.0\FarmAnimals.exe
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\FarmAnimals\bin\Debug\net5.0\FarmAnimals.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\FarmAnimals\bin\Debug\net5.0\FarmAnimals.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\FarmAnimals\bin\Debug\net5.0\FarmAnimals.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\FarmAnimals\bin\Debug\net5.0\FarmAnimals.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\FarmAnimals\bin\Debug\net5.0\ref\FarmAnimals.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\FarmAnimals\bin\Debug\net5.0\FarmAnimals.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\FarmAnimals\obj\Debug\net5.0\FarmAnimals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\FarmAnimals\obj\Debug\net5.0\FarmAnimals.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\FarmAnimals\obj\Debug\net5.0\FarmAnimals.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\FarmAnimals\obj\Debug\net5.0\FarmAnimals.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\FarmAnimals\obj\Debug\net5.0\FarmAnimals.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\FarmAnimals\obj\Debug\net5.0\ref\FarmAnimals.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\FarmAnimals\obj\Debug\net5.0\FarmAnimals.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\FarmAnimals\obj\Debug\net5.0\FarmAnimals.genruntimeconfig.cache

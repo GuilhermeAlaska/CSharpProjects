@@ -1,0 +1,16 @@
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Fibonacci\bin\Debug\net5.0\Fibonacci.exe
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Fibonacci\bin\Debug\net5.0\Fibonacci.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Fibonacci\bin\Debug\net5.0\Fibonacci.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Fibonacci\bin\Debug\net5.0\Fibonacci.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Fibonacci\bin\Debug\net5.0\Fibonacci.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Fibonacci\bin\Debug\net5.0\ref\Fibonacci.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Fibonacci\bin\Debug\net5.0\Fibonacci.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Fibonacci\obj\Debug\net5.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Fibonacci\obj\Debug\net5.0\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Fibonacci\obj\Debug\net5.0\Fibonacci.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Fibonacci\obj\Debug\net5.0\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Fibonacci\obj\Debug\net5.0\Fibonacci.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Fibonacci\obj\Debug\net5.0\ref\Fibonacci.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Fibonacci\obj\Debug\net5.0\Fibonacci.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Fibonacci\obj\Debug\net5.0\Fibonacci.genruntimeconfig.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Fibonacci\obj\Debug\net5.0\Fibonacci.csproj.AssemblyReference.cache

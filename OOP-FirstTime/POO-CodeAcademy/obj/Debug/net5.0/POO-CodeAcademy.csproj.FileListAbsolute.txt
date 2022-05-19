@@ -1,0 +1,16 @@
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\POO-CodeAcademy\bin\Debug\net5.0\POO-CodeAcademy.exe
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\POO-CodeAcademy\bin\Debug\net5.0\POO-CodeAcademy.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\POO-CodeAcademy\bin\Debug\net5.0\POO-CodeAcademy.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\POO-CodeAcademy\bin\Debug\net5.0\POO-CodeAcademy.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\POO-CodeAcademy\bin\Debug\net5.0\POO-CodeAcademy.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\POO-CodeAcademy\bin\Debug\net5.0\ref\POO-CodeAcademy.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\POO-CodeAcademy\bin\Debug\net5.0\POO-CodeAcademy.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\POO-CodeAcademy\obj\Debug\net5.0\POO-CodeAcademy.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\POO-CodeAcademy\obj\Debug\net5.0\POO-CodeAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\POO-CodeAcademy\obj\Debug\net5.0\POO-CodeAcademy.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\POO-CodeAcademy\obj\Debug\net5.0\POO-CodeAcademy.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\POO-CodeAcademy\obj\Debug\net5.0\POO-CodeAcademy.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\POO-CodeAcademy\obj\Debug\net5.0\POO-CodeAcademy.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\POO-CodeAcademy\obj\Debug\net5.0\ref\POO-CodeAcademy.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\POO-CodeAcademy\obj\Debug\net5.0\POO-CodeAcademy.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\POO-CodeAcademy\obj\Debug\net5.0\POO-CodeAcademy.genruntimeconfig.cache

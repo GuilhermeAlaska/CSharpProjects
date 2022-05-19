@@ -1,0 +1,16 @@
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Exercises W3resource\bin\Debug\net5.0\Exercises W3resource.exe
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Exercises W3resource\bin\Debug\net5.0\Exercises W3resource.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Exercises W3resource\bin\Debug\net5.0\Exercises W3resource.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Exercises W3resource\bin\Debug\net5.0\Exercises W3resource.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Exercises W3resource\bin\Debug\net5.0\Exercises W3resource.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Exercises W3resource\bin\Debug\net5.0\ref\Exercises W3resource.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Exercises W3resource\bin\Debug\net5.0\Exercises W3resource.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Exercises W3resource\obj\Debug\net5.0\Exercises W3resource.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Exercises W3resource\obj\Debug\net5.0\Exercises W3resource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Exercises W3resource\obj\Debug\net5.0\Exercises W3resource.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Exercises W3resource\obj\Debug\net5.0\Exercises W3resource.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Exercises W3resource\obj\Debug\net5.0\Exercises W3resource.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Exercises W3resource\obj\Debug\net5.0\Exercises W3resource.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Exercises W3resource\obj\Debug\net5.0\ref\Exercises W3resource.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Exercises W3resource\obj\Debug\net5.0\Exercises W3resource.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Exercises W3resource\obj\Debug\net5.0\Exercises W3resource.genruntimeconfig.cache

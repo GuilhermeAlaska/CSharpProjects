@@ -1,0 +1,16 @@
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\StoreProject\bin\Debug\net5.0\StoreProject.exe
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\StoreProject\bin\Debug\net5.0\StoreProject.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\StoreProject\bin\Debug\net5.0\StoreProject.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\StoreProject\bin\Debug\net5.0\StoreProject.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\StoreProject\bin\Debug\net5.0\StoreProject.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\StoreProject\bin\Debug\net5.0\ref\StoreProject.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\StoreProject\bin\Debug\net5.0\StoreProject.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\StoreProject\obj\Debug\net5.0\StoreProject.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\StoreProject\obj\Debug\net5.0\StoreProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\StoreProject\obj\Debug\net5.0\StoreProject.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\StoreProject\obj\Debug\net5.0\StoreProject.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\StoreProject\obj\Debug\net5.0\StoreProject.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\StoreProject\obj\Debug\net5.0\StoreProject.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\StoreProject\obj\Debug\net5.0\ref\StoreProject.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\StoreProject\obj\Debug\net5.0\StoreProject.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\StoreProject\obj\Debug\net5.0\StoreProject.genruntimeconfig.cache

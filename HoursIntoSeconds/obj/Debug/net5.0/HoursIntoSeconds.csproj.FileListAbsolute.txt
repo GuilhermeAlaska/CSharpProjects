@@ -1,0 +1,15 @@
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\HoursIntoSeconds\bin\Debug\net5.0\HoursIntoSeconds.exe
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\HoursIntoSeconds\bin\Debug\net5.0\HoursIntoSeconds.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\HoursIntoSeconds\bin\Debug\net5.0\HoursIntoSeconds.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\HoursIntoSeconds\bin\Debug\net5.0\HoursIntoSeconds.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\HoursIntoSeconds\bin\Debug\net5.0\HoursIntoSeconds.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\HoursIntoSeconds\bin\Debug\net5.0\ref\HoursIntoSeconds.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\HoursIntoSeconds\bin\Debug\net5.0\HoursIntoSeconds.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\HoursIntoSeconds\obj\Debug\net5.0\HoursIntoSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\HoursIntoSeconds\obj\Debug\net5.0\HoursIntoSeconds.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\HoursIntoSeconds\obj\Debug\net5.0\HoursIntoSeconds.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\HoursIntoSeconds\obj\Debug\net5.0\HoursIntoSeconds.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\HoursIntoSeconds\obj\Debug\net5.0\HoursIntoSeconds.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\HoursIntoSeconds\obj\Debug\net5.0\ref\HoursIntoSeconds.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\HoursIntoSeconds\obj\Debug\net5.0\HoursIntoSeconds.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\HoursIntoSeconds\obj\Debug\net5.0\HoursIntoSeconds.genruntimeconfig.cache

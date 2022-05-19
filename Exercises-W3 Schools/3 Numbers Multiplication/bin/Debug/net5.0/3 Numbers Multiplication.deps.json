@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "3 Numbers Multiplication/1.0.0": {
+        "runtime": {
+          "3 Numbers Multiplication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3 Numbers Multiplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Stacks\StacksProject\bin\Debug\net5.0\StacksProject.exe
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Stacks\StacksProject\bin\Debug\net5.0\StacksProject.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Stacks\StacksProject\bin\Debug\net5.0\StacksProject.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Stacks\StacksProject\bin\Debug\net5.0\StacksProject.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Stacks\StacksProject\bin\Debug\net5.0\StacksProject.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Stacks\StacksProject\bin\Debug\net5.0\ref\StacksProject.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Stacks\StacksProject\bin\Debug\net5.0\StacksProject.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Stacks\StacksProject\obj\Debug\net5.0\StacksProject.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Stacks\StacksProject\obj\Debug\net5.0\StacksProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Stacks\StacksProject\obj\Debug\net5.0\StacksProject.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Stacks\StacksProject\obj\Debug\net5.0\StacksProject.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Stacks\StacksProject\obj\Debug\net5.0\StacksProject.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Stacks\StacksProject\obj\Debug\net5.0\StacksProject.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Stacks\StacksProject\obj\Debug\net5.0\ref\StacksProject.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Stacks\StacksProject\obj\Debug\net5.0\StacksProject.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Stacks\StacksProject\obj\Debug\net5.0\StacksProject.genruntimeconfig.cache

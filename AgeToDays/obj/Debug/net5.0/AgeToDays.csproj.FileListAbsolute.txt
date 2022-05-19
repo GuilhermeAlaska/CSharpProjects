@@ -1,0 +1,15 @@
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\AgeToDays\bin\Debug\net5.0\AgeToDays.exe
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\AgeToDays\bin\Debug\net5.0\AgeToDays.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\AgeToDays\bin\Debug\net5.0\AgeToDays.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\AgeToDays\bin\Debug\net5.0\AgeToDays.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\AgeToDays\bin\Debug\net5.0\AgeToDays.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\AgeToDays\bin\Debug\net5.0\ref\AgeToDays.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\AgeToDays\bin\Debug\net5.0\AgeToDays.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\AgeToDays\obj\Debug\net5.0\AgeToDays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\AgeToDays\obj\Debug\net5.0\AgeToDays.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\AgeToDays\obj\Debug\net5.0\AgeToDays.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\AgeToDays\obj\Debug\net5.0\AgeToDays.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\AgeToDays\obj\Debug\net5.0\AgeToDays.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\AgeToDays\obj\Debug\net5.0\ref\AgeToDays.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\AgeToDays\obj\Debug\net5.0\AgeToDays.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\AgeToDays\obj\Debug\net5.0\AgeToDays.genruntimeconfig.cache

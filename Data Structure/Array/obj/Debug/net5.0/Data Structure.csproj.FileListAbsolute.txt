@@ -1,0 +1,32 @@
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Data Structure\bin\Debug\net5.0\Data Structure.exe
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Data Structure\bin\Debug\net5.0\Data Structure.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Data Structure\bin\Debug\net5.0\Data Structure.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Data Structure\bin\Debug\net5.0\Data Structure.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Data Structure\bin\Debug\net5.0\Data Structure.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Data Structure\bin\Debug\net5.0\ref\Data Structure.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Data Structure\bin\Debug\net5.0\Data Structure.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Data Structure\obj\Debug\net5.0\Data Structure.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Data Structure\obj\Debug\net5.0\Data Structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Data Structure\obj\Debug\net5.0\Data Structure.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Data Structure\obj\Debug\net5.0\Data Structure.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Data Structure\obj\Debug\net5.0\Data Structure.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Data Structure\obj\Debug\net5.0\Data Structure.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Data Structure\obj\Debug\net5.0\ref\Data Structure.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Data Structure\obj\Debug\net5.0\Data Structure.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Data Structure\obj\Debug\net5.0\Data Structure.genruntimeconfig.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Array\bin\Debug\net5.0\Data Structure.exe
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Array\bin\Debug\net5.0\Data Structure.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Array\bin\Debug\net5.0\Data Structure.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Array\bin\Debug\net5.0\Data Structure.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Array\bin\Debug\net5.0\Data Structure.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Array\bin\Debug\net5.0\ref\Data Structure.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Array\bin\Debug\net5.0\Data Structure.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Array\obj\Debug\net5.0\Data Structure.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Array\obj\Debug\net5.0\Data Structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Array\obj\Debug\net5.0\Data Structure.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Array\obj\Debug\net5.0\Data Structure.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Array\obj\Debug\net5.0\Data Structure.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Array\obj\Debug\net5.0\Data Structure.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Array\obj\Debug\net5.0\ref\Data Structure.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Array\obj\Debug\net5.0\Data Structure.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Array\obj\Debug\net5.0\Data Structure.genruntimeconfig.cache

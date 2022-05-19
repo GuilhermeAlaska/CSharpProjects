@@ -1,0 +1,15 @@
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\MinutesToSeconds\bin\Debug\net5.0\MinutesToSeconds.exe
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\MinutesToSeconds\bin\Debug\net5.0\MinutesToSeconds.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\MinutesToSeconds\bin\Debug\net5.0\MinutesToSeconds.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\MinutesToSeconds\bin\Debug\net5.0\MinutesToSeconds.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\MinutesToSeconds\bin\Debug\net5.0\MinutesToSeconds.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\MinutesToSeconds\bin\Debug\net5.0\ref\MinutesToSeconds.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\MinutesToSeconds\bin\Debug\net5.0\MinutesToSeconds.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\MinutesToSeconds\obj\Debug\net5.0\MinutesToSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\MinutesToSeconds\obj\Debug\net5.0\MinutesToSeconds.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\MinutesToSeconds\obj\Debug\net5.0\MinutesToSeconds.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\MinutesToSeconds\obj\Debug\net5.0\MinutesToSeconds.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\MinutesToSeconds\obj\Debug\net5.0\MinutesToSeconds.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\MinutesToSeconds\obj\Debug\net5.0\ref\MinutesToSeconds.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\MinutesToSeconds\obj\Debug\net5.0\MinutesToSeconds.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\MinutesToSeconds\obj\Debug\net5.0\MinutesToSeconds.genruntimeconfig.cache

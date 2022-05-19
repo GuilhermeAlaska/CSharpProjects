@@ -1,0 +1,16 @@
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\TwoEqualValues\bin\Debug\net5.0\TwoEqualValues.exe
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\TwoEqualValues\bin\Debug\net5.0\TwoEqualValues.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\TwoEqualValues\bin\Debug\net5.0\TwoEqualValues.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\TwoEqualValues\bin\Debug\net5.0\TwoEqualValues.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\TwoEqualValues\bin\Debug\net5.0\TwoEqualValues.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\TwoEqualValues\bin\Debug\net5.0\ref\TwoEqualValues.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\TwoEqualValues\bin\Debug\net5.0\TwoEqualValues.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\TwoEqualValues\obj\Debug\net5.0\TwoEqualValues.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\TwoEqualValues\obj\Debug\net5.0\TwoEqualValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\TwoEqualValues\obj\Debug\net5.0\TwoEqualValues.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\TwoEqualValues\obj\Debug\net5.0\TwoEqualValues.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\TwoEqualValues\obj\Debug\net5.0\TwoEqualValues.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\TwoEqualValues\obj\Debug\net5.0\TwoEqualValues.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\TwoEqualValues\obj\Debug\net5.0\ref\TwoEqualValues.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\TwoEqualValues\obj\Debug\net5.0\TwoEqualValues.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\TwoEqualValues\obj\Debug\net5.0\TwoEqualValues.genruntimeconfig.cache

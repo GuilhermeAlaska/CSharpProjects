@@ -1,0 +1,16 @@
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\3 Numbers Multiplication\bin\Debug\net5.0\3 Numbers Multiplication.exe
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\3 Numbers Multiplication\bin\Debug\net5.0\3 Numbers Multiplication.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\3 Numbers Multiplication\bin\Debug\net5.0\3 Numbers Multiplication.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\3 Numbers Multiplication\bin\Debug\net5.0\3 Numbers Multiplication.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\3 Numbers Multiplication\bin\Debug\net5.0\3 Numbers Multiplication.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\3 Numbers Multiplication\bin\Debug\net5.0\ref\3 Numbers Multiplication.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\3 Numbers Multiplication\bin\Debug\net5.0\3 Numbers Multiplication.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\3 Numbers Multiplication\obj\Debug\net5.0\3 Numbers Multiplication.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\3 Numbers Multiplication\obj\Debug\net5.0\3 Numbers Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\3 Numbers Multiplication\obj\Debug\net5.0\3 Numbers Multiplication.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\3 Numbers Multiplication\obj\Debug\net5.0\3 Numbers Multiplication.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\3 Numbers Multiplication\obj\Debug\net5.0\3 Numbers Multiplication.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\3 Numbers Multiplication\obj\Debug\net5.0\3 Numbers Multiplication.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\3 Numbers Multiplication\obj\Debug\net5.0\ref\3 Numbers Multiplication.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\3 Numbers Multiplication\obj\Debug\net5.0\3 Numbers Multiplication.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\3 Numbers Multiplication\obj\Debug\net5.0\3 Numbers Multiplication.genruntimeconfig.cache

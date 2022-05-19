@@ -1,0 +1,16 @@
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\OOP Exercise\bin\Debug\net5.0\OOP Exercise.exe
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\OOP Exercise\bin\Debug\net5.0\OOP Exercise.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\OOP Exercise\bin\Debug\net5.0\OOP Exercise.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\OOP Exercise\bin\Debug\net5.0\OOP Exercise.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\OOP Exercise\bin\Debug\net5.0\OOP Exercise.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\OOP Exercise\bin\Debug\net5.0\ref\OOP Exercise.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\OOP Exercise\bin\Debug\net5.0\OOP Exercise.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\OOP Exercise\obj\Debug\net5.0\OOP Exercise.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\OOP Exercise\obj\Debug\net5.0\OOP Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\OOP Exercise\obj\Debug\net5.0\OOP Exercise.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\OOP Exercise\obj\Debug\net5.0\OOP Exercise.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\OOP Exercise\obj\Debug\net5.0\OOP Exercise.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\OOP Exercise\obj\Debug\net5.0\OOP Exercise.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\OOP Exercise\obj\Debug\net5.0\ref\OOP Exercise.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\OOP Exercise\obj\Debug\net5.0\OOP Exercise.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\OOP\OOP Exercise\obj\Debug\net5.0\OOP Exercise.genruntimeconfig.cache

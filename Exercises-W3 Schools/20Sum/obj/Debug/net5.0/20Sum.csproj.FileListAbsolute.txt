@@ -1,0 +1,16 @@
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\20Sum\obj\Debug\net5.0\20Sum.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\20Sum\obj\Debug\net5.0\20Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\20Sum\obj\Debug\net5.0\20Sum.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\20Sum\obj\Debug\net5.0\20Sum.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\20Sum\obj\Debug\net5.0\20Sum.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\20Sum\bin\Debug\net5.0\20Sum.exe
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\20Sum\bin\Debug\net5.0\20Sum.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\20Sum\bin\Debug\net5.0\20Sum.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\20Sum\bin\Debug\net5.0\20Sum.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\20Sum\bin\Debug\net5.0\20Sum.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\20Sum\bin\Debug\net5.0\ref\20Sum.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\20Sum\bin\Debug\net5.0\20Sum.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\20Sum\obj\Debug\net5.0\20Sum.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\20Sum\obj\Debug\net5.0\ref\20Sum.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\20Sum\obj\Debug\net5.0\20Sum.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\20Sum\obj\Debug\net5.0\20Sum.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Filas(Queues) DM/1.0.0": {
+        "runtime": {
+          "Filas(Queues) DM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Filas(Queues) DM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

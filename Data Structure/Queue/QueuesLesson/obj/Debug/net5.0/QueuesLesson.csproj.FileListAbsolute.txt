@@ -1,0 +1,16 @@
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Queue\QueuesLesson\bin\Debug\net5.0\QueuesLesson.exe
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Queue\QueuesLesson\bin\Debug\net5.0\QueuesLesson.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Queue\QueuesLesson\bin\Debug\net5.0\QueuesLesson.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Queue\QueuesLesson\bin\Debug\net5.0\QueuesLesson.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Queue\QueuesLesson\bin\Debug\net5.0\QueuesLesson.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Queue\QueuesLesson\bin\Debug\net5.0\ref\QueuesLesson.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Queue\QueuesLesson\bin\Debug\net5.0\QueuesLesson.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Queue\QueuesLesson\obj\Debug\net5.0\QueuesLesson.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Queue\QueuesLesson\obj\Debug\net5.0\QueuesLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Queue\QueuesLesson\obj\Debug\net5.0\QueuesLesson.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Queue\QueuesLesson\obj\Debug\net5.0\QueuesLesson.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Queue\QueuesLesson\obj\Debug\net5.0\QueuesLesson.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Queue\QueuesLesson\obj\Debug\net5.0\QueuesLesson.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Queue\QueuesLesson\obj\Debug\net5.0\ref\QueuesLesson.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Queue\QueuesLesson\obj\Debug\net5.0\QueuesLesson.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\Queue\QueuesLesson\obj\Debug\net5.0\QueuesLesson.genruntimeconfig.cache

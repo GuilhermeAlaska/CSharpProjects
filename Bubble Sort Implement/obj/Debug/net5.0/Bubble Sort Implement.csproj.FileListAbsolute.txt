@@ -1,0 +1,16 @@
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Bubble Sort Implement\obj\Debug\net5.0\Bubble Sort Implement.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Bubble Sort Implement\obj\Debug\net5.0\Bubble Sort Implement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Bubble Sort Implement\obj\Debug\net5.0\Bubble Sort Implement.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Bubble Sort Implement\obj\Debug\net5.0\Bubble Sort Implement.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Bubble Sort Implement\obj\Debug\net5.0\Bubble Sort Implement.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Bubble Sort Implement\bin\Debug\net5.0\Bubble Sort Implement.exe
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Bubble Sort Implement\bin\Debug\net5.0\Bubble Sort Implement.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Bubble Sort Implement\bin\Debug\net5.0\Bubble Sort Implement.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Bubble Sort Implement\bin\Debug\net5.0\Bubble Sort Implement.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Bubble Sort Implement\bin\Debug\net5.0\Bubble Sort Implement.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Bubble Sort Implement\bin\Debug\net5.0\ref\Bubble Sort Implement.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Bubble Sort Implement\bin\Debug\net5.0\Bubble Sort Implement.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Bubble Sort Implement\obj\Debug\net5.0\Bubble Sort Implement.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Bubble Sort Implement\obj\Debug\net5.0\ref\Bubble Sort Implement.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Bubble Sort Implement\obj\Debug\net5.0\Bubble Sort Implement.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Bubble Sort Implement\obj\Debug\net5.0\Bubble Sort Implement.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\myBubbleSort\bin\Debug\net5.0\myBubbleSort.exe
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\myBubbleSort\bin\Debug\net5.0\myBubbleSort.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\myBubbleSort\bin\Debug\net5.0\myBubbleSort.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\myBubbleSort\bin\Debug\net5.0\myBubbleSort.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\myBubbleSort\bin\Debug\net5.0\myBubbleSort.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\myBubbleSort\bin\Debug\net5.0\ref\myBubbleSort.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\myBubbleSort\bin\Debug\net5.0\myBubbleSort.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\myBubbleSort\obj\Debug\net5.0\myBubbleSort.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\myBubbleSort\obj\Debug\net5.0\myBubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\myBubbleSort\obj\Debug\net5.0\myBubbleSort.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\myBubbleSort\obj\Debug\net5.0\myBubbleSort.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\myBubbleSort\obj\Debug\net5.0\myBubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\myBubbleSort\obj\Debug\net5.0\myBubbleSort.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\myBubbleSort\obj\Debug\net5.0\ref\myBubbleSort.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\myBubbleSort\obj\Debug\net5.0\myBubbleSort.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\myBubbleSort\obj\Debug\net5.0\myBubbleSort.genruntimeconfig.cache

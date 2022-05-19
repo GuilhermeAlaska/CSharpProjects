@@ -1,0 +1,16 @@
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\BInaryTree3\obj\Debug\net5.0\BInaryTree3.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\BInaryTree3\obj\Debug\net5.0\BInaryTree3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\BInaryTree3\obj\Debug\net5.0\BInaryTree3.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\BInaryTree3\obj\Debug\net5.0\BInaryTree3.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\BInaryTree3\obj\Debug\net5.0\BInaryTree3.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\BInaryTree3\bin\Debug\net5.0\BInaryTree3.exe
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\BInaryTree3\bin\Debug\net5.0\BInaryTree3.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\BInaryTree3\bin\Debug\net5.0\BInaryTree3.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\BInaryTree3\bin\Debug\net5.0\BInaryTree3.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\BInaryTree3\bin\Debug\net5.0\BInaryTree3.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\BInaryTree3\bin\Debug\net5.0\ref\BInaryTree3.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\BInaryTree3\bin\Debug\net5.0\BInaryTree3.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\BInaryTree3\obj\Debug\net5.0\BInaryTree3.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\BInaryTree3\obj\Debug\net5.0\ref\BInaryTree3.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\BInaryTree3\obj\Debug\net5.0\BInaryTree3.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\Data Structure\BInaryTree3\obj\Debug\net5.0\BInaryTree3.genruntimeconfig.cache

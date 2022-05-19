@@ -1,0 +1,15 @@
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Media 4 Numbers\bin\Debug\net5.0\Media 4 Numbers.exe
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Media 4 Numbers\bin\Debug\net5.0\Media 4 Numbers.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Media 4 Numbers\bin\Debug\net5.0\Media 4 Numbers.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Media 4 Numbers\bin\Debug\net5.0\Media 4 Numbers.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Media 4 Numbers\bin\Debug\net5.0\Media 4 Numbers.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Media 4 Numbers\bin\Debug\net5.0\ref\Media 4 Numbers.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Media 4 Numbers\bin\Debug\net5.0\Media 4 Numbers.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Media 4 Numbers\obj\Debug\net5.0\Media 4 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Media 4 Numbers\obj\Debug\net5.0\Media 4 Numbers.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Media 4 Numbers\obj\Debug\net5.0\Media 4 Numbers.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Media 4 Numbers\obj\Debug\net5.0\Media 4 Numbers.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Media 4 Numbers\obj\Debug\net5.0\Media 4 Numbers.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Media 4 Numbers\obj\Debug\net5.0\ref\Media 4 Numbers.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Media 4 Numbers\obj\Debug\net5.0\Media 4 Numbers.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Media 4 Numbers\obj\Debug\net5.0\Media 4 Numbers.genruntimeconfig.cache
