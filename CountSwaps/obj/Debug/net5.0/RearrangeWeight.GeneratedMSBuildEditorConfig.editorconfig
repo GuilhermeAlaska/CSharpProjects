@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Bubble_Sort_Implement
-build_property.ProjectDir = C:\Users\guilh\Desktop\Guilherme\C#\CSharpProjects\Bubble Sort Implement\
+build_property.RootNamespace = RearrangeWeight
+build_property.ProjectDir = C:\Users\guilh\Desktop\Guilherme\C#\CSharpProjects\RearrangeWeight\
