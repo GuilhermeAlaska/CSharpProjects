@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NQBjMsGxcXy2wn6IDqfc1peigGkD8MoYdjeiKVHxxLfGe0EtRjqzPeBbefotvNhJwBJMINfAALKgpqqHHjsIww==",
+  "dgSpecHash": "U5EAuEZDzh3QZX2mucRCfDshS4cvkgjOXs5HCvoXZn/3VYwxNHZvEwIhIHAjji2y84V7WzJ59eKFCa1NgSsO5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\guilh\\Desktop\\Guilherme\\C#\\CSharpProjects\\ReduceString\\src\\ReduceStringTests\\ReduceStringTests.csproj",
+  "projectFilePath": "D:\\All\\Trabalho\\CSharpProjects\\ReduceString\\src\\ReduceStringTests\\ReduceStringTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guilh\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

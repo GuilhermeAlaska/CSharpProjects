@@ -6,14 +6,19 @@ using System.Threading.Tasks;
 
 namespace Fibonacci
 {
-    class Fibonacci
+    public static class Fibonacci
     {
-        public Fibonacci() { }
-        public void CreateFibonacciSequence(int numbers)
+        public static void CreateFibonacciSequence(int numbers)
         {
             int previousNumber = 0;
             int nextNumber = 1;
             int fibonacciSequence;
+
+            if (numbers > 45)
+            {
+                Console.WriteLine("The sequence can't be more than 45 because of the limitation of Type int");
+                numbers = 45;
+            }
 
             Console.Write("Sequência Fibonacci: { ");
             Console.Write(previousNumber + " " + nextNumber + " ");

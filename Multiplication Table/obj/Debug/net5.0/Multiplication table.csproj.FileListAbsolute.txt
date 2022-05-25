@@ -1,0 +1,31 @@
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Multiplication table\obj\Debug\net5.0\Multiplication table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Multiplication table\obj\Debug\net5.0\Multiplication table.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Multiplication table\obj\Debug\net5.0\Multiplication table.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Multiplication table\obj\Debug\net5.0\Multiplication table.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Multiplication table\bin\Debug\net5.0\Multiplication table.exe
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Multiplication table\bin\Debug\net5.0\Multiplication table.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Multiplication table\bin\Debug\net5.0\Multiplication table.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Multiplication table\bin\Debug\net5.0\Multiplication table.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Multiplication table\bin\Debug\net5.0\Multiplication table.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Multiplication table\bin\Debug\net5.0\ref\Multiplication table.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Multiplication table\bin\Debug\net5.0\Multiplication table.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Multiplication table\obj\Debug\net5.0\Multiplication table.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Multiplication table\obj\Debug\net5.0\ref\Multiplication table.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Multiplication table\obj\Debug\net5.0\Multiplication table.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\Multiplication table\obj\Debug\net5.0\Multiplication table.genruntimeconfig.cache
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\Multiplication table\bin\Debug\net5.0\Multiplication table.exe
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\Multiplication table\bin\Debug\net5.0\Multiplication table.deps.json
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\Multiplication table\bin\Debug\net5.0\Multiplication table.runtimeconfig.json
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\Multiplication table\bin\Debug\net5.0\Multiplication table.runtimeconfig.dev.json
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\Multiplication table\bin\Debug\net5.0\Multiplication table.dll
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\Multiplication table\bin\Debug\net5.0\Multiplication table.pdb
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\Multiplication table\obj\Debug\net5.0\Multiplication table.csproj.AssemblyReference.cache
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\Multiplication table\obj\Debug\net5.0\Multiplication table.GeneratedMSBuildEditorConfig.editorconfig
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\Multiplication table\obj\Debug\net5.0\Multiplication table.AssemblyInfoInputs.cache
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\Multiplication table\obj\Debug\net5.0\Multiplication table.AssemblyInfo.cs
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\Multiplication table\obj\Debug\net5.0\Multiplication table.csproj.CoreCompileInputs.cache
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\Multiplication table\obj\Debug\net5.0\Multiplication table.dll
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\Multiplication table\obj\Debug\net5.0\refint\Multiplication table.dll
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\Multiplication table\obj\Debug\net5.0\Multiplication table.pdb
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\Multiplication table\obj\Debug\net5.0\Multiplication table.genruntimeconfig.cache
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\Multiplication table\obj\Debug\net5.0\ref\Multiplication table.dll

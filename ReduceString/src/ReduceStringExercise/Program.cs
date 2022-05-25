@@ -9,8 +9,8 @@ namespace ReduceStringExercise
     {
         static void Main(string[] args)
         {
-            //var inputs = SimulateInputs();
-            var inputs = GetUserInputs();
+            var inputs = SimulateInputs();
+            //var inputs = GetUserInputs();
             var validStrings = GetValidStrings(inputs);
             ReduceStrings(validStrings);
         }

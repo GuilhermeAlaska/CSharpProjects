@@ -6,7 +6,7 @@ namespace HoursIntoSeconds
     {
         static void Main(string[] args)
         {
-            Console.Write("Insert how many hours: ");
+            Console.Write("Insert any hours: ");
             int hours = Convert.ToInt32(Console.ReadLine());
             int hoursInSeconds = ((hours * 60) * 60);
 

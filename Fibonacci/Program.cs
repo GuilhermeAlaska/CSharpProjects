@@ -6,8 +6,7 @@ namespace Fibonacci
     {
         static void Main(string[] args)
         {
-            Fibonacci f = new();
-            f.CreateFibonacciSequence(30);
+            Fibonacci.CreateFibonacciSequence(45);
         }
     }
 }

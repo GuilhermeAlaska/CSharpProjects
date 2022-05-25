@@ -1,0 +1,32 @@
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\CelsiusToFahrenheit\bin\Debug\net5.0\CelsiusToFahrenheit.exe
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\CelsiusToFahrenheit\bin\Debug\net5.0\CelsiusToFahrenheit.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\CelsiusToFahrenheit\bin\Debug\net5.0\CelsiusToFahrenheit.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\CelsiusToFahrenheit\bin\Debug\net5.0\CelsiusToFahrenheit.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\CelsiusToFahrenheit\bin\Debug\net5.0\CelsiusToFahrenheit.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\CelsiusToFahrenheit\bin\Debug\net5.0\ref\CelsiusToFahrenheit.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\CelsiusToFahrenheit\bin\Debug\net5.0\CelsiusToFahrenheit.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\CelsiusToFahrenheit\obj\Debug\net5.0\CelsiusToFahrenheit.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\CelsiusToFahrenheit\obj\Debug\net5.0\CelsiusToFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\CelsiusToFahrenheit\obj\Debug\net5.0\CelsiusToFahrenheit.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\CelsiusToFahrenheit\obj\Debug\net5.0\CelsiusToFahrenheit.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\CelsiusToFahrenheit\obj\Debug\net5.0\CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\CelsiusToFahrenheit\obj\Debug\net5.0\CelsiusToFahrenheit.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\CelsiusToFahrenheit\obj\Debug\net5.0\ref\CelsiusToFahrenheit.dll
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\CelsiusToFahrenheit\obj\Debug\net5.0\CelsiusToFahrenheit.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\MyProjects\ExercisesW3\CelsiusToFahrenheit\obj\Debug\net5.0\CelsiusToFahrenheit.genruntimeconfig.cache
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\CelsiusToFahrenheit\bin\Debug\net5.0\CelsiusToFahrenheit.exe
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\CelsiusToFahrenheit\bin\Debug\net5.0\CelsiusToFahrenheit.deps.json
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\CelsiusToFahrenheit\bin\Debug\net5.0\CelsiusToFahrenheit.runtimeconfig.json
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\CelsiusToFahrenheit\bin\Debug\net5.0\CelsiusToFahrenheit.runtimeconfig.dev.json
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\CelsiusToFahrenheit\bin\Debug\net5.0\CelsiusToFahrenheit.dll
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\CelsiusToFahrenheit\bin\Debug\net5.0\CelsiusToFahrenheit.pdb
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\CelsiusToFahrenheit\obj\Debug\net5.0\CelsiusToFahrenheit.csproj.AssemblyReference.cache
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\CelsiusToFahrenheit\obj\Debug\net5.0\CelsiusToFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\CelsiusToFahrenheit\obj\Debug\net5.0\CelsiusToFahrenheit.AssemblyInfoInputs.cache
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\CelsiusToFahrenheit\obj\Debug\net5.0\CelsiusToFahrenheit.AssemblyInfo.cs
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\CelsiusToFahrenheit\obj\Debug\net5.0\CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\CelsiusToFahrenheit\obj\Debug\net5.0\CelsiusToFahrenheit.dll
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\CelsiusToFahrenheit\obj\Debug\net5.0\refint\CelsiusToFahrenheit.dll
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\CelsiusToFahrenheit\obj\Debug\net5.0\CelsiusToFahrenheit.pdb
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\CelsiusToFahrenheit\obj\Debug\net5.0\CelsiusToFahrenheit.genruntimeconfig.cache
+D:\All\Trabalho\CSharpProjects\Exercises-W3 Schools\CelsiusToFahrenheit\obj\Debug\net5.0\ref\CelsiusToFahrenheit.dll

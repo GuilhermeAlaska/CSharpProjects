@@ -6,12 +6,12 @@ namespace MinutesToSeconds
     {
         static void Main(string[] args)
         {
-            Console.Write("Digite quantos minutos: ");
+            Console.Write("Input how many minutes: ");
             int minutes = Convert.ToInt32(Console.ReadLine());
 
             int seconds = (minutes * 60);
 
-            Console.WriteLine($"{minutes} minutos em segundos são {seconds} segundos.");
+            Console.WriteLine($"{minutes} minutes in seconds are {seconds} seconds.");
         }
     }
 }

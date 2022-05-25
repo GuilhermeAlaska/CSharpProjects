@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guilh\\Desktop\\Guilherme\\C#\\CSharpProjects\\ReduceString\\src\\ReduceString\\ReduceString.csproj": {}
+    "D:\\All\\Trabalho\\CSharpProjects\\ReduceString\\src\\ReduceString\\ReduceString.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guilh\\Desktop\\Guilherme\\C#\\CSharpProjects\\ReduceString\\src\\ReduceString\\ReduceString.csproj": {
+    "D:\\All\\Trabalho\\CSharpProjects\\ReduceString\\src\\ReduceString\\ReduceString.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guilh\\Desktop\\Guilherme\\C#\\CSharpProjects\\ReduceString\\src\\ReduceString\\ReduceString.csproj",
+        "projectUniqueName": "D:\\All\\Trabalho\\CSharpProjects\\ReduceString\\src\\ReduceString\\ReduceString.csproj",
         "projectName": "ReduceString",
-        "projectPath": "C:\\Users\\guilh\\Desktop\\Guilherme\\C#\\CSharpProjects\\ReduceString\\src\\ReduceString\\ReduceString.csproj",
+        "projectPath": "D:\\All\\Trabalho\\CSharpProjects\\ReduceString\\src\\ReduceString\\ReduceString.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guilh\\Desktop\\Guilherme\\C#\\CSharpProjects\\ReduceString\\src\\ReduceString\\obj\\",
+        "outputPath": "D:\\All\\Trabalho\\CSharpProjects\\ReduceString\\src\\ReduceString\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
