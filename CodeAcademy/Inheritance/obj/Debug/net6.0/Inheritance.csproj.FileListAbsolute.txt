@@ -1,0 +1,6 @@
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Inheritance\obj\Debug\net6.0\Inheritance.GlobalUsings.g.cs
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "62d8c143-2c12-4a3f-b82e-2ff312a352fc": {
+      "ProjectGuid": "62d8c143-2c12-4a3f-b82e-2ff312a352fc",
+      "DisplayName": "Interfaces",
+      "ColorIndex": 0
+    },
+    "3fb88b14-f57c-496e-a68e-25ea3619a2c8": {
+      "ProjectGuid": "3fb88b14-f57c-496e-a68e-25ea3619a2c8",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

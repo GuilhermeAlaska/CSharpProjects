@@ -1,0 +1,16 @@
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Numbers\obj\Debug\net6.0\Numbers.GlobalUsings.g.cs
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Numbers\obj\Debug\net6.0\Numbers.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Numbers\obj\Debug\net6.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Numbers\obj\Debug\net6.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Numbers\bin\Debug\net6.0\Numbers.exe
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Numbers\bin\Debug\net6.0\Numbers.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Numbers\bin\Debug\net6.0\Numbers.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Numbers\bin\Debug\net6.0\Numbers.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Numbers\bin\Debug\net6.0\ref\Numbers.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Numbers\bin\Debug\net6.0\Numbers.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Numbers\obj\Debug\net6.0\Numbers.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Numbers\obj\Debug\net6.0\ref\Numbers.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Numbers\obj\Debug\net6.0\Numbers.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Numbers\obj\Debug\net6.0\Numbers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\guilh\Desktop\Guilherme\C#\CodeAcademy\GG\bin\Debug\net5.0\GG.exe
+C:\Users\guilh\Desktop\Guilherme\C#\CodeAcademy\GG\bin\Debug\net5.0\GG.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\CodeAcademy\GG\bin\Debug\net5.0\GG.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\CodeAcademy\GG\bin\Debug\net5.0\GG.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Guilherme\C#\CodeAcademy\GG\bin\Debug\net5.0\GG.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CodeAcademy\GG\bin\Debug\net5.0\ref\GG.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CodeAcademy\GG\bin\Debug\net5.0\GG.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\CodeAcademy\GG\obj\Debug\net5.0\GG.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Guilherme\C#\CodeAcademy\GG\obj\Debug\net5.0\GG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\CodeAcademy\GG\obj\Debug\net5.0\GG.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\CodeAcademy\GG\obj\Debug\net5.0\GG.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\CodeAcademy\GG\obj\Debug\net5.0\GG.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\CodeAcademy\GG\obj\Debug\net5.0\GG.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CodeAcademy\GG\obj\Debug\net5.0\ref\GG.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CodeAcademy\GG\obj\Debug\net5.0\GG.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\CodeAcademy\GG\obj\Debug\net5.0\GG.genruntimeconfig.cache

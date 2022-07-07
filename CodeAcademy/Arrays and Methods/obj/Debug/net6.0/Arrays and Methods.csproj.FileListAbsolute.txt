@@ -1,0 +1,15 @@
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays and Methods\bin\Debug\net6.0\Arrays and Methods.exe
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays and Methods\bin\Debug\net6.0\Arrays and Methods.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays and Methods\bin\Debug\net6.0\Arrays and Methods.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays and Methods\bin\Debug\net6.0\Arrays and Methods.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays and Methods\bin\Debug\net6.0\ref\Arrays and Methods.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays and Methods\bin\Debug\net6.0\Arrays and Methods.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays and Methods\obj\Debug\net6.0\Arrays and Methods.GlobalUsings.g.cs
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays and Methods\obj\Debug\net6.0\Arrays and Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays and Methods\obj\Debug\net6.0\Arrays and Methods.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays and Methods\obj\Debug\net6.0\Arrays and Methods.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays and Methods\obj\Debug\net6.0\Arrays and Methods.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays and Methods\obj\Debug\net6.0\Arrays and Methods.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays and Methods\obj\Debug\net6.0\ref\Arrays and Methods.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays and Methods\obj\Debug\net6.0\Arrays and Methods.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays and Methods\obj\Debug\net6.0\Arrays and Methods.genruntimeconfig.cache

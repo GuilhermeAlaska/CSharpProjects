@@ -1,0 +1,6 @@
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Interfaces\obj\Debug\net6.0\Interfaces.GlobalUsings.g.cs
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Interfaces\obj\Debug\net6.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Interfaces\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache

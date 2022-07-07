@@ -1,0 +1,16 @@
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays\obj\Debug\net6.0\Arrays.GlobalUsings.g.cs
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays\obj\Debug\net6.0\Arrays.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays\bin\Debug\net6.0\Arrays.exe
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays\bin\Debug\net6.0\Arrays.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays\bin\Debug\net6.0\Arrays.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays\bin\Debug\net6.0\ref\Arrays.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays\bin\Debug\net6.0\Arrays.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays\obj\Debug\net6.0\Arrays.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays\obj\Debug\net6.0\ref\Arrays.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays\obj\Debug\net6.0\Arrays.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache

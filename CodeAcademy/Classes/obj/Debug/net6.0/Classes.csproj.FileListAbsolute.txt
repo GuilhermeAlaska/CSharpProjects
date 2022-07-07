@@ -1,0 +1,16 @@
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Classes\bin\Debug\net6.0\Classes.exe
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Classes\bin\Debug\net6.0\Classes.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Classes\bin\Debug\net6.0\Classes.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Classes\bin\Debug\net6.0\ref\Classes.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Classes\bin\Debug\net6.0\Classes.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Classes\obj\Debug\net6.0\Classes.GlobalUsings.g.cs
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Classes\obj\Debug\net6.0\Classes.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Classes\obj\Debug\net6.0\Classes.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Classes\obj\Debug\net6.0\ref\Classes.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Classes\obj\Debug\net6.0\Classes.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache

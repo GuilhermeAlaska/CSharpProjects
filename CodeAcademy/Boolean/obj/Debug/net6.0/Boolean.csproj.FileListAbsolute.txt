@@ -1,0 +1,16 @@
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Boolean\bin\Debug\net6.0\Boolean.exe
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Boolean\bin\Debug\net6.0\Boolean.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Boolean\bin\Debug\net6.0\Boolean.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Boolean\bin\Debug\net6.0\Boolean.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Boolean\bin\Debug\net6.0\ref\Boolean.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Boolean\bin\Debug\net6.0\Boolean.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Boolean\obj\Debug\net6.0\Boolean.GlobalUsings.g.cs
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Boolean\obj\Debug\net6.0\Boolean.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Boolean\obj\Debug\net6.0\Boolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Boolean\obj\Debug\net6.0\Boolean.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Boolean\obj\Debug\net6.0\Boolean.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Boolean\obj\Debug\net6.0\Boolean.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Boolean\obj\Debug\net6.0\Boolean.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Boolean\obj\Debug\net6.0\ref\Boolean.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Boolean\obj\Debug\net6.0\Boolean.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Boolean\obj\Debug\net6.0\Boolean.genruntimeconfig.cache

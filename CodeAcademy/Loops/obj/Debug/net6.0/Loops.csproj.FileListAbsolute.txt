@@ -1,0 +1,16 @@
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Loops\bin\Debug\net6.0\Loops.exe
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Loops\bin\Debug\net6.0\Loops.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Loops\bin\Debug\net6.0\Loops.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Loops\bin\Debug\net6.0\Loops.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Loops\bin\Debug\net6.0\ref\Loops.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Loops\bin\Debug\net6.0\Loops.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Loops\obj\Debug\net6.0\Loops.GlobalUsings.g.cs
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Loops\obj\Debug\net6.0\Loops.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Loops\obj\Debug\net6.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Loops\obj\Debug\net6.0\Loops.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Loops\obj\Debug\net6.0\Loops.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Loops\obj\Debug\net6.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Loops\obj\Debug\net6.0\Loops.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Loops\obj\Debug\net6.0\ref\Loops.dll
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Loops\obj\Debug\net6.0\Loops.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\CCodeAcademy\Loops\obj\Debug\net6.0\Loops.genruntimeconfig.cache
